@@ -5,4 +5,4 @@
 - 📫 You can reach me at evemcgivern @ gmail (dot) com ! Or check out my <a href="https://separated-lupin-f3c.notion.site/Eve-McGivern-18b0507d1fce80739005ff51f4e0198f" target="_blank">portfolio</a> on Notion.
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I also write for and maintain the <a href="https://www.brainwashed.com" target="_blank">Brainwashed.com</a>  site that fouses on independent music.
-- ⚡ Fun fact 2: We have 10 cats + 2 strays.
+- ⚡ Fun fact 2: I have 10 cats + 2 strays.
