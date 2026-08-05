@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @evemcgivern
-- 👀 I’m a technical business systems analyst and aspiring Enterprise Data Architect with a passion for data visualization, cloud solutions, and automation.
-- 🌱 I’m currently expanding my cloud expertise to optimize processes and enhance data-driven decision-making.
-- 💞️ With a background in development, analysis, and art, I’m looking to collaborate on projects leveraging AWS or Azure, Python, Snowflake, Tableau, and Alteryx to drive impactful solutions.
-- 📫 You can reach me at evemcgivern @ gmail (dot) com ! Or check out my <a href="https://separated-lupin-f3c.notion.site/Eve-McGivern-18b0507d1fce80739005ff51f4e0198f" target="_blank">portfolio</a> on Notion.
+- 👋 Hi, I'm @evemcgivern
+- 👀 Workflows for AI-assisted work: control gates, lifecycle loops, human-in-the-loop design. Global IT application governance @ Las Vegas Sands.
+- 🌱 Currently building toward formal architecture ownership: data models, lineage, control gates, evaluation harnesses.
+- 💞️ Open to collaborating on agentic workflow design, AI governance tooling, and anything where the interesting question is where the human stays in the loop.
+- 🧩 Background in development, analysis and art, which is most of why I think in systems.
+- 📫 Reach me at evemcgivern @ gmail (dot) com, or see my <a href="https://evemcgivern.notion.site/Eve-McGivern-18b0507d1fce80739005ff51f4e0198f" target="_blank">portfolio</a>.
 - 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: I also write for and maintain the <a href="https://www.brainwashed.com" target="_blank">Brainwashed.com</a>  site that fouses on independent music.
-- ⚡ Fun fact 2: I have 10 cats + 2 strays.
+- ⚡ Fun fact: I write for and help maintain <a href="https://www.brainwashed.com" target="_blank">Brainwashed</a>, covering independent music.
+- ⚡ Fun fact 2: 7 cats plus 2 strays.
