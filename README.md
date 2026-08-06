@@ -3,7 +3,7 @@
 - 🌱 Currently building toward formal architecture ownership: data models, lineage, control gates, evaluation harnesses.
 - 💞️ Open to collaborating on agentic workflow design, AI governance tooling, and anything where the interesting question is where the human stays in the loop.
 - 🧩 Background in development, analysis and art, which is most of why I think in systems.
-- 📫 Reach me at evemcgivern @ gmail (dot) com, or see my <a href="https://app.notion.com/p/Eve-McGivern-18b0507d1fce80739005ff51f4e0198f" target="_blank">portfolio</a>.
+- 📫 Reach me at evemcgivern @ gmail (dot) com, or see my <a href="https://evemcgivern.notion.site/Eve-McGivern-18b0507d1fce80739005ff51f4e0198f" target="_blank">portfolio</a>.
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I write for and help maintain <a href="https://www.brainwashed.com" target="_blank">Brainwashed</a>, covering independent music.
 - ⚡ Fun fact 2: 7 cats plus 2 strays.
