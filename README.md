@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @evemcgivern
+- 👋 Hi, I'm Eve McGivern (@evemcgivern)
 - 👀 Workflows for AI-assisted work: control gates, lifecycle loops, human-in-the-loop design. Global IT application governance @ <a href="https://www.sands.com" target="_blank">Las Vegas Sands</a>.
 - 🌱 Currently building toward formal architecture ownership: data models, lineage, control gates, evaluation harnesses.
 - 💞️ Open to collaborating on agentic workflow design, AI governance tooling, and anything where the interesting question is where the human stays in the loop.
