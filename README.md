@@ -1,9 +1,12 @@
-- 👋 Hi, I'm Eve McGivern (@evemcgivern)
-- 👀 Workflows for AI-assisted work: control gates, lifecycle loops, human-in-the-loop design. Global IT application governance @ <a href="https://www.sands.com" target="_blank">Las Vegas Sands</a>.
+- 👋 Hi, I'm Eve McGivern (@evemcgivern), a systems thinker in Austin, TX.
+- 👀 I lead global IT application governance @ <a href="https://www.sands.com" target="_blank">Las Vegas Sands</a> and co-founded <a href="https://stylusnexus.github.io" target="_blank">Stylus Nexus</a>, a product studio building data and AI-enabled applications, including <a href="https://www.getcritforge.com/" target="_blank">CritForge</a>, an AI campaign companion for D&D game masters.
+- 🧭 19 years of business systems analysis and product delivery in regulated financial services and gaming. I map how applications, data, processes, controls, and people affect one another, then turn ambiguity into requirements, decision models, operating workflows, and roadmaps.
+- 📜 Before that: LPL Financial, Temenos, BNY Mellon, and PNC, across development, business systems analysis, and product delivery. Development background: SQL and PL/SQL, Python, Informatica, Snowflake, ColdFusion, PHP, and now Next.js and React.
+- 🛠️ I design workflows for AI-assisted work: control gates, lifecycle loops, human-in-the-loop design. See the <a href="https://evemcgivern.github.io/app-governance-kit/" target="_blank">App Governance Kit</a>.
 - 🌱 Currently building toward formal architecture ownership: data models, lineage, control gates, evaluation harnesses.
 - 💞️ Open to collaborating on agentic workflow design, AI governance tooling, and anything where the interesting question is where the human stays in the loop.
 - 🧩 Background in development, analysis and art, which is most of why I think in systems.
-- 📫 Reach me at evemcgivern @ gmail (dot) com, or see my <a href="https://evemcgivern.notion.site/Eve-McGivern-18b0507d1fce80739005ff51f4e0198f" target="_blank">portfolio</a>.
+- 📫 Reach me at evemcgivern @ gmail (dot) com, on <a href="https://www.linkedin.com/in/evemcgivern" target="_blank">LinkedIn</a>, or see my <a href="https://evemcgivern.github.io" target="_blank">site</a> and <a href="https://evemcgivern.notion.site/Eve-McGivern-18b0507d1fce80739005ff51f4e0198f" target="_blank">portfolio</a>.
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I write for and help maintain <a href="https://www.brainwashed.com" target="_blank">Brainwashed</a>, covering independent music.
 - ⚡ Fun fact 2: 7 cats plus 2 strays.
